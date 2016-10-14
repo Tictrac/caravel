@@ -225,6 +225,7 @@ def init(caravel):
         'UserDBModelView',
         'SQL Lab',
         'AccessRequestsModelView',
+        'Manage',
     ])
 
     ADMIN_ONLY_PERMISSIONS = set([
